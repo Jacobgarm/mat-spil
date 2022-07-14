@@ -22,4 +22,5 @@ func _ready():
 if(2==2)
 {
 	instance_create utopia;
+	aaaaaaaaaaa
 }
